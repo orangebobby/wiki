@@ -7,5 +7,3 @@ Please only create an issue here if:
 - Your problem hasn't been resolved on the [Gitter documentation room](https://gitter.im/ethereum/documentation). You've tried pinging someone who knows how to handle the issue, or asking who this might be, and then asking them.
 - You've waited at least a couple of days for responses on Gitter.
 - And **only** if it is related to the wiki.
-
-Thank you. If your issue was previously closed, see the [Contributing Guide](CONTRIBUTING.md) for more information on closed issues.
