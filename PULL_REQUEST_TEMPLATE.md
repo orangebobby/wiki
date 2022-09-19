@@ -1,4 +1,4 @@
-**Please do not open a pull request.**
+
 
 This repository no longer contains any code or documentation; please edit the [wiki](https://github.com/ethereum/wiki/wiki) directly, instead.
 
