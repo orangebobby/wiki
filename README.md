@@ -1,9 +1,12 @@
 # Wiki
 
 
+
 :no_entry_sign: **no longer actively maintained** :no_entry_sign:
 
-This wiki is a now a largely outdated collection of resources explaining the state-of-the-art in Ethereum circa 2014-2018.
+This wiki is a now a largely outdated collection of re
+
+sources explaining the state-of-the-art in Ethereum circa 2014-2018.
 
 Most of the material in this repository has been updated and migrated to ethereum.org.
 
